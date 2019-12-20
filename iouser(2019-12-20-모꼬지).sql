@@ -1,0 +1,1 @@
+select * from tbl_product where p_code ='P0395';
